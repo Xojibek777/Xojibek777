@@ -1,0 +1,503 @@
+# -*- coding: utf-8 -*-
+# *** Spyder Python Console History Log ***
+
+## ---(Mon Jun 13 21:40:22 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+5*6
+3+6=9
+
+## ---(Thu Jun 16 09:21:49 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+yosh = 12
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runcell(0, 'C:/Users/User/.spyder-py3/temp.py')
+help>keywords
+ keywords
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Thu Jun 16 09:52:51 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+f"Mening ism {ism}"
+f"Mening ismim {ism}"
+ clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+ism = "Xojibek"
+familiya = "Narz"
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+ism = "Xojibek"
+familiya = "Suyumov"
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Sun Jun 19 17:47:08 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+type(temp)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(c)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(c)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(d)
+type(d)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+PI
+PI = 3.14
+print(PI)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+str(yosh)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+yosh = 10
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+print(mevalar)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(mevalar)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(narhlar)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(sonlar)
+print[ismlar]
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(ismlar)
+(mevalar[0])
+clear
+print(mevalar[0].upper())
+mevalar[0] = 'anor
+mevalar[0] = 'anor'
+print(mevalar)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+mevalar.append('tarvuz')
+mevalar.insert(0, "banan")
+cars = []
+cars.append("lacetti")
+cars.append("Nexia")
+cars.append("Malibu")
+cars.append("Trekker")
+print(cars)
+del cars[0]
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Tue Jun 21 10:19:20 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jun 24 13:54:28 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+cars.sort
+cars.sort()
+cars.sort(reverse=True)
+cars.sort(reverse=False)
+print(sorted(cars))
+sonlar = [12,45,23,56,998,1,-5,-7.7]
+print(sorted(sonlar))
+sonlar.sort()
+cars.reverse()
+len(cars)
+len(sonlar)
+list(range(0,10))
+sonlar = list(range(0,10000000000000000000000000000000000000000000))
+sonlar = list(range(0,11))
+toq_sonlar= list(range(1,20,22))
+juft_sonlar = list(range(1,20,2))
+sanash = list(range(0,101,10))
+
+## ---(Mon Jun 27 13:41:27 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+for avto in avtolar:
+    print(avto.title)
+    
+for avto in avtolar:
+    print(avto.title())
+    
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto == 'bmw'
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Wed Jun 29 11:06:13 2022)---
+debugfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+debugfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(en_uz)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(en_uz)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Thu Jun 30 10:10:34 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Thu Jun 30 10:29:02 2022)---
+debugfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Thu Jun 30 10:43:37 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Mon Jul  4 10:18:09 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+vf
+v
+fv
+v
+vf
+v
+vf
+f
+fvf
+vf
+v
+fv
+vfv
+fv
+f
+v
+vv
+v
+clear
+
+## ---(Mon Jul  4 11:23:59 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+5
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Tue Jul  5 20:09:47 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+
+## ---(Wed Jul  6 08:47:49 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+salom_ber
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+salom
+salom_ber
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(print__doc__)
+print(print_doc_)
+print(print._doc_)
+print(print.__doc__)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jul  8 06:36:31 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+
+## ---(Mon Jul 11 08:59:23 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto_kirit()
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+daraja(3)
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+daraja(3)
+clear
+daraja(3)
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+sonlar
+ildizlar
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jul 15 10:18:02 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jul 15 10:51:52 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jul 15 10:54:24 2022)---
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+talaba3.familiya
+runfile('C:/Users/User/.spyder-py3/untitled0.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jul 15 16:15:38 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+
+## ---(Sun Jul 17 20:57:51 2022)---
+talaba1 = Talaba("Alijon","Valiyev",1995)
+talaba1.ism
+clear
+talaba1 = Talaba("Alijon","Valiyev",1995)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+talaba1.bosqich
+clear
+Talaba("Alijon","Valiyev",1995)
+talaba1 = Talaba("Alijon","Valiyev",1995)
+talaba1.bosqich
+talaba1.yil
+clear
+talaba1.tyil
+talaba1.bosqich
+talaba1.bosqich = 2
+talaba.get_info
+talaba1.get_info
+talaba1.get_info()
+clear
+talaba1.bosqich = 2
+talaba1.get_info()
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+talaba1.get_info()
+clear
+talaba1.bosqich = 2
+talaba1.get_info()
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+talaba1.set_bosqich(2)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+talaba1.set_bosqich(2)
+clear
+matem = Fan("Oliy Matematika")
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+matem = Fan("Oliy Matematika")
+matem.add_student(talaba1)
+lear
+clear
+lear
+clear
+matem.add_student(talaba1)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+matem.add_student(talaba1)
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+q
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Wed Jul 20 09:33:44 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+Shaxs
+CLS
+%clear
+print(uuid4())
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(uuid4())
+clear
+avto1 = Avto("GM","Malibu"."Qora",2020,40000,100000)
+avto1 = Avto("GM","Malibu","Qora",2020,40000,100000)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1 = Avto("GM","Malibu","Qora",2020,40000,100000)
+avto1.model
+avto1.__km
+avto1.get.km()
+avto1.get_.km()
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1.get_.km()
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1.get_.km()
+%clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1.get_.km()
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1.get_.id()
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+dir(Avto)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+print(Avto1)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+print(avto1)
+x,y=10,20
+x>y
+x<y
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1==avto2
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1==avto2
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1==avto2
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1<avto2
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1<avto2
+avto1>avto2
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+avto1>avto2
+clear
+avto1>avto2
+clear
+matn = "salom"
+len(matn)
+salon1
+%clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+salon1
+ isinstance(avto1,Avto)
+ isinstance(avto1,Avtosalon)
+ isinstance(avto1,AvtoSalon)
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+sonlar = [1,2,3,4,5]
+sonlar[0]
+sonlar[4]
+salon[1]
+salon1[1]
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+salon[0]
+%clear
+salon1[0]
+clear
+
+## ---(Thu Jul 21 20:41:50 2022)---
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+type(file)
+file.close
+type(file)
+file.close()
+type(file)
+untitled0 = file.read()
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Sun Jul 24 11:04:21 2022)---
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+clear
+'20'.isdigit()
+'besh'.isdigit()
+'20.5'.isdigit()
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+20 
+0
+00
+0
+clear
+runfile('C:/Users/User/.spyder-py3/untitled3.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+get_full_name('alijon', 'valiyev', 'olimovich')
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Wed Jul 27 09:50:23 2022)---
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+avto1 = Car('gm','malibu',2020)
+avto1.get_info
+avto1.get_info()
+avto1.add_km(-500)
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clea
+clear
+runfile('C:/Users/User/.spyder-py3/untitled1.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+e
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
+clear
+runfile('C:/Users/User/.spyder-py3/temp.py', wdir='C:/Users/User/.spyder-py3')
